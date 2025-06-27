@@ -68,7 +68,7 @@ This task taught me how to build a classification model from scratch using logis
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/task-4-logistic-regression.git
+   git clone https://github.com/anmolthakur74/task-4-logistic-regression.git
    cd task-4-logistic-regression
    ```
    
