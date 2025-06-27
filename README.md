@@ -4,13 +4,13 @@ This repository contains my solution for **Task 4** of the AI & ML Internship. T
 
 ---
 
-## 🎯 Objective
+## Objective
 
 Build a binary classifier using logistic regression.
 
 ---
 
-## 📁 Files Included
+## Files Included
 
 | File Name                     | Description                                                  |
 |------------------------------|--------------------------------------------------------------|
@@ -21,7 +21,7 @@ Build a binary classifier using logistic regression.
 
 ---
 
-## 🔍 What I Did
+## What I Did
 
 1. I began with the basics of exploratory data analysis using simple pandas dataframe functions (e.g., df.head(), df.info(), df.describe()). This allowed me to get a feel for the data, check for missing values and assess how balanced the target variable was. From my initial analysis, I found that the target variable of people with heart disease and without did not show too much bias (526 with heart disease vs 499 without heart disease).
 
@@ -49,7 +49,7 @@ Build a binary classifier using logistic regression.
 
 ---
 
-## 🛠 Tools & Libraries Used
+## Tools & Libraries Used
 
 - Python 3.12
 - pandas, numpy — for data handling
@@ -58,13 +58,13 @@ Build a binary classifier using logistic regression.
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 This task taught me how to build a classification model from scratch using logistic regression. I learned the importance of feature scaling, threshold tuning, and model evaluation using metrics beyond accuracy. I also understood how logistic regression leverages the sigmoid function to output probabilities.
 
 ---
 
-## ▶️ How to Run This Project
+## How to Run This Project
 
 1. Clone the repository:
    ```bash
@@ -88,4 +88,4 @@ This task taught me how to build a classification model from scratch using logis
 
 **Anmol Thakur**
 
-GitHub: [anmolthakur74]()
+GitHub: [anmolthakur74](https://github.com/anmolthakur74)
